@@ -29,3 +29,15 @@ And run:
 ```
 python3 ./main.py
 ```
+
+## Examples
+
+Sites that should be behind a reverse proxy include:
+- leoapagano.com
+- stackoverflow.com
+- nytimes.com
+
+Sites that should NOT be behind a reverse proxy include:
+- github.com
+- google.com
+- uconn.edu
